@@ -1,19 +1,24 @@
-![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyejinYang&theme=default&show_icons=true)
+
+
+### Hello, there! 🙌
+
+I'm a frontend developer using **JavaScript** and **React**.🧚‍♀️ <br>
+These days, my biggest intersts are **TypeScript** and cross-platform developing with **React-Native**.📱 <br>
+<br>
+I love to read SF fictions and beautiful codes.📚
+
+You can contact me via email or the LinkedIn address below. 💌
 <!-- 나중에 링크 연결하기 -->
 <p>
 <img src="https://img.shields.io/badge/Gmail-3DB2FF?style=flat&logo=Gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/LinkedIn-3DB2FF?style=flat&logo=LinkedIn"/>
 </p>
 
-Hello, there! 🙌 <br>
-<br>
-I'm a frontend developer using **JavaScript** and **React**.🧚‍♀️ <br>
-These days, my biggest intersts are **TypeScript** and cross-platform developing with **React-Native**.📱 <br>
-<br>
-I love to read SF fictions and beautiful codes.📚
+### ✨ Stats
 
+![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyejinYang&theme=default&show_icons=true)
 
-### 🌟 Skills
+### ✨ Skills
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-3D087B?style=flat&logo=HTML5"/>
@@ -39,7 +44,7 @@ I love to read SF fictions and beautiful codes.📚
 <img src="https://img.shields.io/badge/Unity-11052C?style=flat&logo=Unity"/>
 </p>
 
-### 🌟 Tools
+### ✨ Tools
 
 <p>
 <img src="https://img.shields.io/badge/Visual Studio Code-FFEDDA?style=flat&logo=Visual Studio Code&logoColor=blue"/>
