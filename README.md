@@ -1,3 +1,10 @@
+![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyejinYang&theme=outrun&show_icons=true)
+<!-- 나중에 링크 연결하기 -->
+<p>
+<img src="https://img.shields.io/badge/Gmail-3DB2FF?style=flat&logo=Gmail"/>
+<img src="https://img.shields.io/badge/LinkedIn-3DB2FF?style=flat&logo=LinkedIn"/>
+</p>
+
 Hello, there! 🙌 <br>
 <br>
 I'm a frontend developer using **JavaScript** and **React**.🧚‍♀️ <br>
@@ -5,11 +12,6 @@ These days, my biggest intersts are **TypeScript** and cross-platform developing
 <br>
 I love to read SF fictions and beautiful codes.📚
 
-<!-- 나중에 링크 연결하기 -->
-<p>
-<img src="https://img.shields.io/badge/Gmail-3DB2FF?style=flat&logo=Gmail"/>
-<img src="https://img.shields.io/badge/LinkedIn-3DB2FF?style=flat&logo=LinkedIn"/>
-</p>
 
 ### 🌟 Skills
 
@@ -46,3 +48,5 @@ I love to read SF fictions and beautiful codes.📚
 <img src="https://img.shields.io/badge/Notion-FFEDDA?style=flat&logo=Notion&logoColor=black"/>
 <img src="https://img.shields.io/badge/Jira-FFEDDA?style=flat&logo=Jira&logoColor=blue"/>
 </p>
+
+
