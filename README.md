@@ -1,7 +1,7 @@
-![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyejinYang&theme=outrun&show_icons=true)
+![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyejinYang&theme=default&show_icons=true)
 <!-- 나중에 링크 연결하기 -->
 <p>
-<img src="https://img.shields.io/badge/Gmail-3DB2FF?style=flat&logo=Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-3DB2FF?style=flat&logo=Gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/LinkedIn-3DB2FF?style=flat&logo=LinkedIn"/>
 </p>
 
