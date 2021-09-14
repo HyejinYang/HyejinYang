@@ -1,8 +1,8 @@
-### Hello, world! 🌟
-
-I'm a frontend developer using JavaScript and react.🔥 </br>
-These days, my biggest intersts are TypeScript and cross-platform developing with react-native.📱 </br>
-</br>
+Hello, there! 🙌 <br>
+<br>
+I'm a frontend developer using **JavaScript** and **React**.🧚‍♀️ <br>
+These days, my biggest intersts are **TypeScript** and cross-platform developing with **React-Native**.📱 <br>
+<br>
 I love to read SF fictions and beautiful codes.📚
 
 <!-- 나중에 링크 연결하기 -->
@@ -11,7 +11,7 @@ I love to read SF fictions and beautiful codes.📚
 <img src="https://img.shields.io/badge/LinkedIn-3DB2FF?style=flat&logo=LinkedIn"/>
 </p>
 
-### Skills
+### 🌟 Skills
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-3D087B?style=flat&logo=HTML5"/>
@@ -37,7 +37,7 @@ I love to read SF fictions and beautiful codes.📚
 <img src="https://img.shields.io/badge/Unity-11052C?style=flat&logo=Unity"/>
 </p>
 
-#### Tools
+### 🌟 Tools
 
 <p>
 <img src="https://img.shields.io/badge/Visual Studio Code-FFEDDA?style=flat&logo=Visual Studio Code&logoColor=blue"/>
