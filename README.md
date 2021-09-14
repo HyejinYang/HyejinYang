@@ -1,16 +1,48 @@
-### Hi there 👋
+### Hello, world! 🌟
 
-<!--
-**HyejinYang/HyejinYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer using JavaScript and react.🔥 </br>
+These days, my biggest intersts are TypeScript and cross-platform developing with react-native.📱 </br>
+</br>
+I love to read SF fictions and beautiful codes.📚
 
-Here are some ideas to get you started:
+<!-- 나중에 링크 연결하기 -->
+<p>
+<img src="https://img.shields.io/badge/Gmail-3DB2FF?style=flat&logo=Gmail"/>
+<img src="https://img.shields.io/badge/LinkedIn-3DB2FF?style=flat&logo=LinkedIn"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-3D087B?style=flat&logo=HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-3D087B?style=flat&logo=CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-3D087B?style=flat&logo=JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3D087B?style=flat&logo=TypeScript"/>
+
+</p>
+<p>
+<img src="https://img.shields.io/badge/React-F43B86?style=flat&logo=React"/>
+<img src="https://img.shields.io/badge/React Native-F43B86?style=flat&logo=React"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-F43B86?style=flat&logo=Tailwind CSS"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-FFE459?style=flat&logo=Python" />
+<img src="https://img.shields.io/badge/Flask-FFE459?style=flat&logo=Flask&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-FFE459?style=flat&logo=MySQL&logoColor=blue"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Firebase-11052C?style=flat&logo=Firebase"/>
+<img src="https://img.shields.io/badge/Unity-11052C?style=flat&logo=Unity"/>
+</p>
+
+#### Tools
+
+<p>
+<img src="https://img.shields.io/badge/Visual Studio Code-FFEDDA?style=flat&logo=Visual Studio Code&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Git-FFEDDA?style=flat&logo=Git"/>
+<img src="https://img.shields.io/badge/GitLab-FFEDDA?style=flat&logo=GitLab"/>
+<img src="https://img.shields.io/badge/Notion-FFEDDA?style=flat&logo=Notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jira-FFEDDA?style=flat&logo=Jira&logoColor=blue"/>
+</p>
