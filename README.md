@@ -36,7 +36,7 @@ You can contact me via email or the LinkedIn address below. 💌
 <p>
 <img src="https://img.shields.io/badge/Python-FFE459?style=flat&logo=Python" />
 <img src="https://img.shields.io/badge/Flask-FFE459?style=flat&logo=Flask&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-FFE459?style=flat&logo=MySQL&logoColor=blue"/>
+<img src="https://img.shields.io/badge/SQLite-FFE459?style=flat&logo=SQLite&logoColor=blue"/>
 </p>
 
 <p>
