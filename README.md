@@ -10,7 +10,8 @@ I love to read SF fictions and beautiful codes.📚
 You can contact me via email or the LinkedIn address below. 💌
 <!-- 나중에 링크 연결하기 -->
 <p>
-<img src="https://img.shields.io/badge/Gmail-3DB2FF?style=flat&logo=Gmail&logoColor=white"/>
+
+[<img alt="alt_text" src="https://img.shields.io/badge/Gmail-3DB2FF?style=flat&logo=Gmail&logoColor=white" />](jinyang.develop@gmail.com)
 <img src="https://img.shields.io/badge/LinkedIn-3DB2FF?style=flat&logo=LinkedIn"/>
 </p>
 
