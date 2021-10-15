@@ -1,5 +1,3 @@
-
-
 ### Hello, there! 🙌
 
 I'm a frontend developer using **JavaScript** and **React**.🧚‍♀️ <br>
@@ -14,6 +12,11 @@ You can contact me via email or the LinkedIn address below. 💌
 [<img alt="alt_text" src="https://img.shields.io/badge/Gmail-3DB2FF?style=flat&logo=Gmail&logoColor=white" />](mailto:jinyang.develop@gmail.com)
 <img src="https://img.shields.io/badge/LinkedIn-3DB2FF?style=flat&logo=LinkedIn"/>
 </p>
+
+- I’ve made ... <a herf="https://github.com/HyejinYang/Wild">`Wild` 🍸 </a>
+
+- I’m currently making ... <a herf="https://github.com/team-mokcha/corabal-beta">`Corabal` ☕ </a>
+
 
 ### ✨ Stats
 
