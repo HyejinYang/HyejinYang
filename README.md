@@ -1,9 +1,9 @@
 ### Hello, there! 🙌
 
 I'm a frontend developer using **JavaScript** and **React**.🧚‍♀️ <br>
-These days, my biggest intersts are **TypeScript** and cross-platform developing with **React-Native**.📱 <br>
+These days, my biggest interests are **TypeScript** and cross-platform developing with **React-Native**.📱 <br>
 <br>
-I love to read SF fictions and beautiful codes.📚
+I love to read SF fiction and beautiful codes.📚
 
 You can contact me via email or the LinkedIn address below. 💌
 <!-- 나중에 링크 연결하기 -->
