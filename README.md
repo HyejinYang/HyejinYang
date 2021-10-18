@@ -13,7 +13,7 @@ You can contact me via email or the LinkedIn address below. 💌
 <img src="https://img.shields.io/badge/LinkedIn-3DB2FF?style=flat&logo=LinkedIn"/>
 </p>
 
-- I’ve made ... <a herf="https://github.com/HyejinYang/Wild">`Wild` 🍸 </a>
+- I’ve made ... [Wild 🍸 ]("https://wild-rho.vercel.app/")
 
 - I’m currently making ... <a herf="https://github.com/team-mokcha/corabal-beta">`Corabal` ☕ </a>
 
