@@ -6,11 +6,11 @@ These days, my biggest interests are **TypeScript** and cross-platform developin
 I love to read SF fiction and beautiful codes.📚
 
 You can contact me via email or the LinkedIn address below. 💌
-<!-- 나중에 링크 연결하기 -->
 <p>
 
 [<img alt="alt_text" src="https://img.shields.io/badge/Gmail-3DB2FF?style=flat&logo=Gmail&logoColor=white" />](mailto:jinyang.develop@gmail.com)
-<img src="https://img.shields.io/badge/LinkedIn-3DB2FF?style=flat&logo=LinkedIn"/>
+[<img alt="alt_text" src="https://img.shields.io/badge/LinkedIn-3DB2FF?style=flat&logo=LinkedIn" />](https://www.linkedin.com/in/jinsheap-develop/)
+
 </p>
 
 - I’ve made ... [Wild 🍸](https://wild-rho.vercel.app/)
