@@ -13,6 +13,8 @@ You can contact me via email or the LinkedIn address below. 💌
 
 </p>
 
+- My portfolio is ... [Jinsheap](https://jinsheap-portfolio.vercel.app/) 🍲
+
 - I’ve made ... [Wild 🍸](https://wild-rho.vercel.app/)
 
 - I’m currently making ... <a herf="https://github.com/team-mokcha/corabal-beta">`Corabal` ☕ </a>
