@@ -1,9 +1,5 @@
-I'm a frontend developer using **JavaScript** and **React**.🧚‍♀️ <br>
+I am a front-end developer who loves making reusable components and visual testing.  
 These days, my biggest interests are **TypeScript** and cross-platform developing with **React-Native**.📱 <br>
 
-- My portfolio is ... [`Jinsheap 🍲`](https://jinsheap-portfolio.vercel.app/) 
-
-- I’ve made ... [`Wild 🍸`](https://wild-rho.vercel.app/)
-
-- I’m currently making ... [`Corabal ☕` ](https://github.com/team-mokcha/corabal-beta)
-
+If you want to have a casual talk with me, feel free to email me.
+jinyang.develop@gmail.com
